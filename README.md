@@ -1,5 +1,9 @@
 # Arduino Button Library - esp8266 version
 
+Obsolete, use [maizy/JC_Button_ESP](https://github.com/maizy/JC_Button_ESP)
+
+---
+
 Fork of [JChristensen/JC_Button](https://github.com/JChristensen/JC_Button)
 for espressif8266 platform.
 
